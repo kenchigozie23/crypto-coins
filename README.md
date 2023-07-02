@@ -114,6 +114,7 @@ Powered by [Binance](https://www.binance.com)
 <ul>
   <li>HTML</li>
   <li>CSS</li>
+  <li>JAVASCRIPT</li>
   <li>TYPESCRIPT</li>
   <li>NEXT JS</li>
   <li>TAILWIND CSS</li>
